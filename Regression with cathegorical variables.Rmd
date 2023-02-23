@@ -1,7 +1,7 @@
 ---
 title: "Regression with cathegorical variables"
-author: "Bessie H. Dizon"
-date: "2023-02-08"
+author: "jhoy dupitas"
+date: "2023-02-23"
 output: html_document
 ---
 
