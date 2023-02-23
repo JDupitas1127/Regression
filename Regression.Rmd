@@ -1,9 +1,9 @@
 ---
 title: "Regression"
-author: "Bessie H. Dizon"
-date: "2023-02-08"
+author: "jhoy dupitas"
+date: "2023-02-23"
 output: html_document
-_notebookyoutube, facebook, nespaper, and sales. 
+_notebookyoutube, facebook, newspaper, and sales. 
 ---
 # Indroduction
  
